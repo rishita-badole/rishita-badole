@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishita Badole</h1>
+<h1 align="center">Hi 👋 I'm Rishita Badole</h1>
 <h3 align="center">I'm a dedicated learner in the field of computer science, constantly seeking to expand my skill set and create meaningful, innovative solutions. My journey began with mastering the fundamentals - HTML, CSS, and JavaScript, which laid a robust foundation for my foray into the exciting world of React and full-stack development.</h3>
 
 - 🌱 I’m currently learning **React js**
