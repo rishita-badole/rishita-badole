@@ -4,16 +4,14 @@
 I'm a dedicated learner in the field of computer science, passionate about building meaningful, innovative solutions. My journey started with mastering the fundamentals—HTML, CSS, and JavaScript—which laid a solid foundation for exploring advanced technologies like Back-end development with Java.
 </h3>
 
----
 
 🌟 **Portfolio**: [Visit My Portfolio](https://luminous-moxie-7b5c3d.netlify.app/)  
 
----
 
 - 🌱 I’m currently learning **Java**  
 - 📫 Reach me at **rishitabadole@gmail.com**  
 
----
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -25,7 +23,7 @@ I'm a dedicated learner in the field of computer science, passionate about build
   </a>
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,6 +50,6 @@ I'm a dedicated learner in the field of computer science, passionate about build
   </a>
 </p>
 
----
+
 
 ✨ **Fun Fact**: I enjoy presenting ideas in the simplest way possible, bridging the gap between technology and creativity.  
