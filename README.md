@@ -1,17 +1,26 @@
-
 <h1 align="center">Hi 👋, I'm Rishita Badole</h1>
 <h3 align="center">
-I'm a dedicated learner in the field of computer science, passionate about building meaningful, innovative solutions. My journey started with mastering the fundamentals of web development and programming concepts which laid a solid foundation for exploring advanced technologies like Java.
+I'm a dedicated learner in the field of computer science, passionate about building meaningful, innovative solutions. My journey started with mastering the fundamentals of web development and programming concepts, which laid a solid foundation for exploring advanced technologies like Java.
 </h3>
 
-
 🌟 **Portfolio**: [Visit My Portfolio](https://luminous-moxie-7b5c3d.netlify.app/)  
-
 
 - 🌱 I’m currently learning **Java**  
 - 📫 Reach me at **rishitabadole@gmail.com**  
 
+---
 
+## 🚀 Projects  
+### **1. Student Grievance and Redressal System**  
+A web-based platform designed to streamline student complaints and provide efficient redressal mechanisms. Built using **Java, Spring Boot, MySQL, and React.js**.  
+
+### **2. Forkify - A Recipe Web App**  
+A dynamic recipe search application that fetches real-time recipes using an API. Developed with **JavaScript, HTML, CSS, and Webpack**.  
+
+### **3. Simple Photo Editor**  
+A basic image editing tool that allows users to apply filters, crop, and adjust images. Built using **HTML, CSS, JavaScript, and Canvas API**.  
+
+---
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -23,7 +32,7 @@ I'm a dedicated learner in the field of computer science, passionate about build
   </a>
 </p>
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -48,17 +57,15 @@ I'm a dedicated learner in the field of computer science, passionate about build
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
- <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-</a>
-<a href="https://spring.io" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
-</a>
+  </a>
 </p>
 
-
-
-✨ **Fun Fact**: I enjoy presenting ideas in the simplest way possible, bridging the gap between technology and creativity.  
+✨ **Fun Fact**: I enjoy presenting ideas in the simplest way possible, bridging the gap between technology and creativity.
