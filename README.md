@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishita Badole</h1>
 <h3 align="center">
-I'm a dedicated learner in the field of computer science, passionate about building meaningful, innovative solutions. My journey started with mastering the fundamentals of web development and programming concepts, which laid a solid foundation for exploring advanced technologies like Java.
+  <em>
+    I'm a dedicated learner in the field of computer science, passionate about building meaningful, innovative solutions. My journey started with mastering the fundamentals of web development and programming concepts, which laid a solid foundation for exploring advanced technologies like Java.
+  </em>
 </h3>
+
 
 🌟 **Portfolio**: [Visit My Portfolio](https://luminous-moxie-7b5c3d.netlify.app/)  
 
