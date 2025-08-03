@@ -8,7 +8,6 @@
 
 🌟 **Portfolio**: [Visit My Portfolio](https://luminous-moxie-7b5c3d.netlify.app/)  
 
-- 🌱 I’m currently learning **Java**  
 - 📫 Reach me at **rishitabadole@gmail.com**
 - ✒ Read my blogs on : [Medium](https://medium.com/@rishitabadole)
 
